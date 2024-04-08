@@ -1,0 +1,26 @@
+.one {
+    position: absolute;
+    top: 355px;
+    left: 670px;
+    z-index: 1;
+    height: 80;
+    width: 370;		 
+}
+
+.two{
+    position: absolute;
+    top: 400px;
+    left: 1030px;
+    z-index: 1;
+    height: 60;
+    width: 150;	
+}
+
+.three{
+    position: absolute;
+    top: 395px;
+    left: 730px;
+    z-index: 1;
+    height: 70;
+    width: 250;	
+}
